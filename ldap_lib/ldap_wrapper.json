@@ -1,0 +1,7 @@
+{
+"username":"@USERNAME@",
+"passwd":"@PASSWD@",
+"org":"@ORG@",
+"ldap_host":"@LDAP_HOST@",
+"ldap_port":@LDAP_PORT@
+}

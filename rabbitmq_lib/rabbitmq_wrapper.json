@@ -1,0 +1,9 @@
+
+{
+    "mq_host":"@MQ_HOST@",
+    "mq_port":@MQ_PORT@,
+    "mq_user":"@MQ_USER@",
+    "mq_passwd":"@MQ_PASSWD@",
+    "mq_vhost":"@MQ_VHOST@",
+    "mq_connect_retry_count":@MQ_CONNECT_RETRY_COUNT@
+}
