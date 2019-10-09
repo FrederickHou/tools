@@ -1,9 +1,9 @@
-# HOST_RESOURCE_COLLECTION
+# coding-template
 ---
 
 ## FEATURE:
 
-**This moudel will collect host resources,and save the host information to mongo database.**
+**Based on the open source module appmanager as a daemon process python background development template to improve module development efficiency and standardization.**
 
 
 ## BASIC INSTALL:
@@ -15,8 +15,8 @@
 
 ## PACKAGE:
 
-    >>  git clone https://......
-    >>  cd host_resource_collection
+    >>  git clone https://github.com/FrederickHou/tools.git
+    >>  cd coding-template
     >>  make
 
 
