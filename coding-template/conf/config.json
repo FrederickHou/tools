@@ -1,0 +1,7 @@
+{
+    "db_host":"@DB_HOST@",
+    "db_port":@DB_PORT@,
+    "db_name":"@DB_NAME@",
+    "username":"@USERNAME@",
+    "passwd":"@PASSWD@"
+}
