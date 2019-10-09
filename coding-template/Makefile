@@ -1,4 +1,4 @@
-VERSION = 1.0
+VERSION = 1.0.2019.1009
 BUILLD_DATE=`date "+%Y-%m-%d %H:%M:%S"`
 
 INTSALL_NAME = coding-template

@@ -1,9 +1,9 @@
 #!/usr/bin/ python
 #coding:utf-8
 '''
-@DATE:2019/07/17
+@DATE:2019/10/09
 @AUTHOR:Frederick hou
-@Function: user sync
+@Function: log file
 '''
 
 import logging
