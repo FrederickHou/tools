@@ -1,7 +1,7 @@
 # coding-template
 ---
 
-## FEATURE:
+## INTRODUCE:
 
 **Based on the open source module appmanager as a daemon process python background development template to improve module development efficiency and standardization.**
 
@@ -9,9 +9,9 @@
 ## BASIC INSTALL:
 
 
-   yum -y install https://github.com/laoshanxi/app-manager/releases/download/v1.3/appmanager-1.4.4-1.x86_64.rpm
+   CENTOS: yum -y install https://github.com/laoshanxi/app-manager/releases/download/v1.4/appmanager-1.4.4-1.x86_64.rpm
 
-   
+   UBUNTU: apt -f install https://github.com/laoshanxi/app-manager/releases/download/v1.4/appmanager_1.4.4_amd64.deb
 
 ## PACKAGE:
 
@@ -30,9 +30,10 @@ export PASSWD="host_resource"
 export INTERVAL_TIME=300
 export LOG_LEVEL="debug"
     
-    >>  yum -y install ./coding-template-1.0-1.x86_64.rpm            
-
+    CENTOS:  yum -y install ./coding-template-1.0-1.x86_64.rpm            
+	UBUNTU:  apt -f install ./coding-template-1.0-1.x86_64.deb
 
 ## PACKAGE UNINSTALL: 
 
-    >>  yum -y remove coding-template
+    CENTOS:  yum -y remove coding-template
+	UBUNTU:  apt -f remove coding-template
